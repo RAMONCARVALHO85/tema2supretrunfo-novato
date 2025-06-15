@@ -1,2 +1,2 @@
-# tema2supretrunfo-novato
+# tema2supertrunfo-novato
 programacaoC
